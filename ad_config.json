@@ -2,7 +2,7 @@
   "ads": {
     "enabled": true,
     "provider": "admob",
-    "testMode": true,
+    "testMode": false,
 
     "banner": {
       "enabled": true,
