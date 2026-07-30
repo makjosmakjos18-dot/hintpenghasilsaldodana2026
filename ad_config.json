@@ -10,7 +10,7 @@
     },
 
     "interstitial": {
-      "enabled": true,
+      "enabled": false,
       "unitId": "ca-app-pub-3940256099942544/1033173712",
       "interval": 3,
       "minimumSeconds": 30
