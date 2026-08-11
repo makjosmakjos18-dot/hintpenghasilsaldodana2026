@@ -28,7 +28,8 @@
 
     "appOpen": {
       "enabled": true,
-      "unitId": "ca-app-pub-3940256099942544/9257395921"
+      "unitId": "ca-app-pub-3940256099942544/9257395921",
+      "minimumSeconds": 60      
     },
 
     "testDevices": [
