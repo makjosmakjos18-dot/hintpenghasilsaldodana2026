@@ -17,7 +17,7 @@
     },
 
     "native": {
-      "enabled": true,
+      "enabled": false,
       "unitId": "ca-app-pub-6179556445410335/1675712150"
     },
 
@@ -27,7 +27,7 @@
     },
 
     "appOpen": {
-      "enabled": true,
+      "enabled": false,
       "unitId": "ca-app-pub-6179556445410335/4390219411"
     },
 
